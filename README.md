@@ -9,6 +9,7 @@
 5. Kears
 6. Images for training and testing
 7. Deep Learning
+8. CNN
 
 **Run Project:**
 
