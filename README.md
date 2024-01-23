@@ -1,1 +1,0 @@
-# forest_fire_smoke_detection
